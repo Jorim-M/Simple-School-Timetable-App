@@ -1,5 +1,5 @@
 # Simple-School-Timetable-App
-A simple school timetable application built using PHP &amp; MySQL
+A simple school timetable application built using PHP &amp; MySQL.
 The objective was to grow this prototype into full fledged collaborative application that allowed teachers to digitize
 the Southview Junior School's timetable and give their website https://svs.sc.ke/ functionality.
 
