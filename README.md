@@ -6,7 +6,7 @@ the Southview Junior School's timetable and give their website https://svs.sc.ke
 
 This project was initially created on October 2020.
 
-Once you've cloned the repository and installed everything to your local computer it should look like this.
+Once you've cloned the repository and migrated everything to your localhost, it should look like this.
 
 ![screencapture-127-0-0-1-employees-table-index-php-2022-03-05-16_02_57](https://user-images.githubusercontent.com/15342707/156884417-49380405-d1e0-42ac-b9db-765af246c599.png)
 
